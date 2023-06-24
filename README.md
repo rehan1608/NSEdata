@@ -27,6 +27,10 @@ pip install mpl-finance
 
 		Enter the stock symbol: TCS
 		Enter the starting date (YYYY-MM-DD): 2022-01-01
+**Output**:  
+![Figure_1](https://github.com/rehan1608/NSEdata/assets/72146315/d9f37b41-ae39-458f-9c63-775784f22273)
+
+
 
 
 **Challenges I ancountered:-**
